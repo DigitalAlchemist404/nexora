@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite
+*.db
+.env
+*.key
+*.pem
+**/privado/
+**/state/
+demo_r5r/
+*.gguf
+*.zip
+.DS_Store
