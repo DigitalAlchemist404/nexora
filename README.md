@@ -11,7 +11,7 @@ NEXORA ordena **copias** de una carpeta con una IA que corre en tu compu (Qwen3.
 | Linux · macOS (Intel o Apple Silicon) | `python3 iniciar.py` |
 | Windows | `py iniciar.py` |
 
-> Probado a fondo en Linux. En macOS y Windows debería funcionar, pero todavía no se probó en esos sistemas.
+> Probado en Linux y macOS. En Windows debería funcionar, pero todavía no se probó.
 
 1. **Opción 1:** elige tu GGUF y tu `llama-server` (busca también en LM Studio y Homebrew). Si junto al modelo hay un `mmproj-*.gguf`, ofrece activar la **visión**. La próxima vez recuerda tu elección: basta con Enter.
 2. **Opción 2:** espera a que diga `Listo` (o `Listo (con visión)`).
